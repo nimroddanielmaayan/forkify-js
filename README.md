@@ -2,7 +2,7 @@
 
 ### A vanilla JS practice project, built in a model–view–controller (MVC) pattern
 
-Live version: https://roaring-vacherin-79a70d.netlify.app
+Live version: https://forkify-recipes-nm.netlify.app/
 
 Screenshot:
 
